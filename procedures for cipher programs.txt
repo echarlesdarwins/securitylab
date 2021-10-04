@@ -1,0 +1,26 @@
+PROCEDURE FOR CIPHER:
+
+1.creating a cipher 
+     U can create a cipher by calling its instance called getInstance() method
+ 
+2.Initializing a cipher
+     Initializing a cipher can be done by using init() method 
+     init() method has two parameters - encrpytion/decryption cipher operation 
+                                        encryption/decryption cipher key 
+
+3.Encrypting and decrypting data
+      To encrypt and decrypt data we can use these two methods 
+            - update()
+            - doFinal()
+
+4.Encrypting / Decrypting Part of a Byte Array
+       by using the encryption and decryption methods we can encrypt and decrypt the part of a byte array 
+
+5.Encrypting / Decrypting Into an Existing Byte Array
+       by using the update() and dofinal() methods we can encrypt and decrypt the part of a existing byte array
+
+6.Reusing a Cipher Instance
+       by reusing the cipher instance we can encrypt and decrypt more data again 
+
+
+       

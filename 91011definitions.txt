@@ -1,0 +1,7 @@
+Snort is an open source network intrusion detection system 
+
+N-Stalker Encoder tool is an encoding tool 
+that allows you to transform data using a different set of common web application standards
+
+
+rootkit provides a continued access to a computer while hiding its presence 

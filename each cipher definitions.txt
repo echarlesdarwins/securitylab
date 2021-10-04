@@ -1,0 +1,36 @@
+Cipher - are systems for encrypting and decrypting data
+a cipher converts a plaintext into ciphertext using key 
+
+caesar cipher 
+   each letter of a given text is replaced by letter with some fixed number positions
+
+playfair cipher
+   is a written code or symmetric encryption technique 
+
+Hillcipher 
+    is a polygraphic substitution cipher based on linear algebra
+
+vigenere cipher 
+    is a method of encrypting alphabetic text 
+
+railfence cipher
+    transform text using only a pencil and paper
+
+des alg
+    Data encryption standard - is a block cipher
+
+aes alg
+    advanced encryption standard - is a symmetrical block cipher 
+
+rsa alg
+    Rivest Shamir Adleman - is a asymmetrical block cipher
+
+diffie hellman 
+    is a key exchange protocol 
+
+sha alg 
+    secure hash alg - family of cryptographic functions
+
+dsa alg 
+    digital signature alg - is used for implementing digital signatures
+
